@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.asianpaints.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_2_sn_559007D7F5C3BC0617A611040FD1FFC4_perc_100000_ol_0_mul_1
+www.asianpaints.com	TRUE	/	FALSE	1999999999	ApplicationGatewayAffinityCORS	a83247097bb61e3eef00678728e2c35fd0f98c00ff5168a16b9dd07ee275a440
+www.asianpaints.com	TRUE	/	FALSE	1999999999	SameSite	None
+
